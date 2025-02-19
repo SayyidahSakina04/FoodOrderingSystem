@@ -1,0 +1,17 @@
+Roti,20
+Pizza,949
+Pasta,799
+Fries,349
+Sandwich,499
+Salad,699
+Sushi,1299
+Steak,1599
+Tacos,849
+Smoothie,479
+Coffee,299
+Milkshake,529
+Ice Cream,399
+Donut,249
+Soup,459
+Raita,90
+Chocolate,500
